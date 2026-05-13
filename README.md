@@ -3,10 +3,9 @@ My name is Guilherme Ganho
 
 💻 Beginner Developer  
 🎓 3rd year high school student  
-📚 Currently studying C# and JavaScript  
+📚 Currently studying C#
 
 ## 🚀 Technologies
-![JavaScript](https://skillicons.dev/icons?i=js)
 ![CSharp](https://skillicons.dev/icons?i=cs)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
