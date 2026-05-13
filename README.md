@@ -1,11 +1,21 @@
 ## Hi there 👋
 My name is Guilherme Ganho
 
- - I’m currently studying at 3° grade of high school
- - I’m currently learning programming
+💻 Beginner Developer  
+🎓 3rd year high school student  
+📚 Currently studying C# and JavaScript  
 
-## Ferramentas e Tecnologias
-![JavaScript](https://skillicons.dev/icons?i=js )
+## 🚀 Technologies
+![JavaScript](https://skillicons.dev/icons?i=js)
+![CSharp](https://skillicons.dev/icons?i=cs)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
-## Contatos:
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://instagram.com/guilhermeganho_ )
+## 📌 Featured Project
+- ScreenSound 🎵
+
+## 📊 GitHub Stats
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGanho-dev&show_icons=true&theme=dark)
+
+## 📫 Contact
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermeganho_)
