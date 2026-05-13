@@ -14,8 +14,5 @@ My name is Guilherme Ganho
 ## 📌 Featured Project
 - ScreenSound 🎵
 
-## 📊 GitHub Stats
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGanho-dev&show_icons=true&theme=dark)
-
 ## 📫 Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermeganho_)
