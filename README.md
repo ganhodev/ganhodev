@@ -10,9 +10,6 @@ My name is Guilherme Ganho
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
-## 📌 Featured Project
-- ScreenSound 🎵
-- ToDo-List 📋
 
 ## 📫 Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermeganho_)
