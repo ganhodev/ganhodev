@@ -10,9 +10,9 @@ Full-Stack developer · Software Engineering student
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,php" />
 
-**Data** — SQLite · MongoDB · Redis
+**Data** — SQLite
 
-<img src="https://skillicons.dev/icons?i=sqlite,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=sqlite"/>
 
 **Tools** — Docker · Git · GitHub · GitLab · Linux
 
